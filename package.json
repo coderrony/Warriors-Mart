@@ -4,8 +4,8 @@
   "description": "Ecommerce Project",
   "main": "index.js",
   "scripts": {
-    "build": "vite", 
-    "start":"vite"
+    "build": "vite",
+    "start": "vite"
   },
   "author": "Five Warriors Teams",
   "license": "ISC",
